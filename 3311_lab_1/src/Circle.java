@@ -1,4 +1,4 @@
-//test
+
 public class Circle extends Shape {
 
 	public Circle(int x, int y, int width, int red, int green, int blue) {

@@ -1,4 +1,4 @@
-//test
+
 public abstract class Shape {
 	
 	public int x, y, width, height, red, green, blue, ID;

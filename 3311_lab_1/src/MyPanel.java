@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 import java.util.concurrent.ThreadLocalRandom;
-//test
+
 @SuppressWarnings("serial")
 public class MyPanel extends JPanel implements ActionListener {
 	

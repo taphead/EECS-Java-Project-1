@@ -1,4 +1,4 @@
-//test
+
 public class Square extends Shape {
 	
 	public Square (int x, int y, int width, int red, int green, int blue) {
