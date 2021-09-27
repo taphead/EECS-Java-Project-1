@@ -7,7 +7,6 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import java.util.concurrent.ThreadLocalRandom;
 
-@SuppressWarnings("serial")
 public class MyPanel extends JPanel implements ActionListener {
 	
 	public	JButton loadShapes;
